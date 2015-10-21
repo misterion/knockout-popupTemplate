@@ -1,0 +1,22 @@
+{
+  "name": "knockout-popupTemplate",
+  "version": "1.7.4",
+  "homepage": "https://github.com/One-com/knockout-popupTemplate",
+  "description": "A flexible, simple Knockout binding for popping up a template near an anchor .",
+  "main": "knockout.popupTemplate.js",
+  "keywords": [
+    "popup",
+    "knockout"
+  ],
+  "license": "Standard 3-clause BSD",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "2 || >=1.9 <=2",
+    "knockout": "3.0 || >=2.2 <=3.2"
+  }
+}
